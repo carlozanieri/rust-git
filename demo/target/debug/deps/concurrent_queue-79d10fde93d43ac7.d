@@ -1,0 +1,11 @@
+/home/carlo/progetti-rust/demo/target/debug/deps/concurrent_queue-79d10fde93d43ac7.rmeta: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/bounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/single.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/unbounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/sync.rs
+
+/home/carlo/progetti-rust/demo/target/debug/deps/libconcurrent_queue-79d10fde93d43ac7.rlib: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/bounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/single.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/unbounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/sync.rs
+
+/home/carlo/progetti-rust/demo/target/debug/deps/concurrent_queue-79d10fde93d43ac7.d: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/bounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/single.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/unbounded.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/sync.rs
+
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/lib.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/bounded.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/single.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/unbounded.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.1.0/src/sync.rs:

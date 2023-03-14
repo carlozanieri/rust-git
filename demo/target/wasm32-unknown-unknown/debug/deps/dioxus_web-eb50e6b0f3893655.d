@@ -1,0 +1,12 @@
+/home/carlo/progetti-rust/demo/target/wasm32-unknown-unknown/debug/deps/dioxus_web-eb50e6b0f3893655.rmeta: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cache.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cfg.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/dom.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/hot_reload.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/util.rs
+
+/home/carlo/progetti-rust/demo/target/wasm32-unknown-unknown/debug/deps/libdioxus_web-eb50e6b0f3893655.rlib: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cache.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cfg.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/dom.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/hot_reload.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/util.rs
+
+/home/carlo/progetti-rust/demo/target/wasm32-unknown-unknown/debug/deps/dioxus_web-eb50e6b0f3893655.d: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cache.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cfg.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/dom.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/hot_reload.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/util.rs
+
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/lib.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cache.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/cfg.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/dom.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/hot_reload.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-web-0.3.1/src/util.rs:

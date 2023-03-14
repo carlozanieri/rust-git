@@ -1,0 +1,11 @@
+/home/carlo/progetti-rust/demo/target/debug/deps/serde_wasm_bindgen-a56723289b34c682.rmeta: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/de.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/error.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/ser.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/../README.md
+
+/home/carlo/progetti-rust/demo/target/debug/deps/libserde_wasm_bindgen-a56723289b34c682.rlib: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/de.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/error.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/ser.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/../README.md
+
+/home/carlo/progetti-rust/demo/target/debug/deps/serde_wasm_bindgen-a56723289b34c682.d: /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/lib.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/de.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/error.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/ser.rs /home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/../README.md
+
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/lib.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/de.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/error.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/ser.rs:
+/home/carlo/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-wasm-bindgen-0.4.5/src/../README.md:
